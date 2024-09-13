@@ -1,2 +1,2 @@
-# 24FA-INEW-2330-7P1
-Class Projects
+# 24FA-INEW-2330-7P1 Projects
+A repository of various project files
